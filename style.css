@@ -39,6 +39,7 @@ nav ul li {
   list-style: none;
   position: relative;
 }
+
 nav ul li a {
   font-family: "Times New Roman", Times, serif;
   color: rgb(255, 255, 255);
@@ -47,6 +48,7 @@ nav ul li a {
   padding: 16px;
   display: block;
 }
+
 
 
 
