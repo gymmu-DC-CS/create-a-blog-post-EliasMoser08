@@ -5,10 +5,11 @@
 }
 
 body {
-  margin-top: 80px;
+  margin-top: 69px;
   background-color: rgb(217, 210, 227);
   font-family: sans-serif;
   text-align: center;
+  color: rgb(15, 14, 14);
 }
 
 nav {
@@ -35,7 +36,7 @@ nav ul li {
 
 
 nav ul li a {
-  font-family: "Times New Roman", Times, serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   color: rgb(250, 244, 244);
   font-size: 24px;
   text-decoration: none;
@@ -47,7 +48,17 @@ nav ul li a:hover {
   background-color: #1c340af9;
 }
 
+.title {
+  color: rgb(78, 3, 118);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 30px;
+}
 
+.image1 {
+  margin-left:10px;
+  height: 5px;
+
+}
 
 
 
