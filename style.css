@@ -47,7 +47,7 @@ nav ul li a:hover {
 }
 
 .title {
-  color: rgb(78, 3, 118);
+  color: #140a4d;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   font-size: 30px;
 }
@@ -72,12 +72,12 @@ nav ul li a:hover {
 
 .rightside {
   width: 35%;
-  float: left;
+  float: right;
 }
 
 .box {
   padding: 25px;
-  background-color: aqua;
+  background-color: rgb(127, 136, 231);
   margin: 25px;
   border-style: double;
   transition: all 0.7s ease-in-out;
